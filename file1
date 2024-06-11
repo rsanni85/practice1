@@ -1,1 +1,11 @@
-editing this after stashing a change in local_edit's version of file1.
+Branch: main
+This is file1. It's within my practice1 directory.
+
+-------------------------------------------------------------------------------
+Branch: local_edit
+
+I'm editing this file to check for updates on the GitHub.
+
+In local_edit branch: I want to see if this edit will show up in the main branch's version of this file after committing these changes.
+
+This text is written here to truly see how git stash works.
